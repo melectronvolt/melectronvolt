@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning how to protect python scripts and improve performance
 - 💬 Ask me about Physics and Chemistry
 - 📫 How to reach me: just reach me on Github.
-- ⚡ Fun fact: I learned ASM x64, just to test if it was faster than c++. -> It is !
+- ⚡ Fun fact: I learned ASM x64, just to test if it was faster than c++.
